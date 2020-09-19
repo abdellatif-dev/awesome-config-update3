@@ -1,6 +1,7 @@
 # awesome-config-update3
 
 ## you need to install
+
 * awesome wm
 * pollybar
 * nitrogen
