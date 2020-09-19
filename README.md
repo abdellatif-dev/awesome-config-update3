@@ -4,8 +4,8 @@
     * awesome wm
     * pollybar
     * nitrogen
-    ``` bash
-    sudo apt-get install awesome pollybar nitrogen
-    ```
-    
+       ``` bash
+       sudo apt-get install awesome pollybar nitrogen
+       ```
+
     * hack nerd font (you can get it from github)
