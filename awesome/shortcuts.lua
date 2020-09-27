@@ -124,8 +124,8 @@ globalkeys = gears.table.join(
 
     -- terminator
 
-              awful.key({modkey }, "b", function () awful.util.spawn("feh --randomize --bg-fill /home/flagmate//Pictures/backgrounds/*") end,
-    {description= "random wallpaper", group="launcher"}),
+              awful.key({modkey }, "y", function () awful.util.spawn("mate-terminal") end,
+    {description= "mate-terminal with tmux", group="launcher"}),
 
     awful.key({modkey }, "r", function () awful.util.spawn("/home/flagmate/.config/awesome/scripts/menu") end,
               {description= "menu", group="launcher"}),
